@@ -1,5 +1,5 @@
 # Blog API
-ViBlogAPI, api for managing a blogging application, with user authentication, comments, likes and tags, with tests and documentation, using Test Driven Development.
+ViBlogAPI, api for managing a blogging application, with user, token authentication, comments, likes and tags, with tests and documentation, using Test Driven Development.
 > Python-DjangoRestFramework
 
 ## Table of contents
