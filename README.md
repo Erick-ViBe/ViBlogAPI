@@ -12,7 +12,7 @@ ViBlogAPI, api for managing a blogging application, with user, token authenticat
 * [Contact](#contact)
 
 <p align='center'>
-  <img src="https://blog.mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png" width="500" >
+  <img src="https://images.squarespace-cdn.com/content/52406c2ae4b02a75078310d2/1443135342749-RJVV8LC0NF4ECX1U3MU8/?content-type=image%2Fjpeg" width="500" >
 </p>
 
 ## Technologies
