@@ -52,8 +52,8 @@ ViBlogAPI, api for managing a blogging application, with user, token authenticat
 `python3 manage.py test`
 
 ## Documentation
-* [@Swagger UI](https://viblog.herokuapp.com/docs/)
-* [@JSON](https://viblog.herokuapp.com/docs.json)
+* [@Swagger UI](https://viblogapi.herokuapp.com/docs/)
+* [@JSON](https://viblogapi.herokuapp.com/docs.json)
 
 ## Contact
 Created by [@ErickViBe](https://erickvibe.xyz/) - feel free to contact me!
